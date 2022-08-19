@@ -1,0 +1,4 @@
+"0","# cara visualisasi lain: perbandingan prediksi dan aktual"
+"0","test_forecast(actual = beras_ts, # data aktual full"
+"0","              forecast.obj = close_arima_f, # hasil forecast"
+"0","              test = beras_test); # data test"

@@ -1,0 +1,2 @@
+"0","autoplot(beras_ts) +"
+"0","  autolayer(close_arima_f)"

@@ -1,0 +1,4 @@
+"0","# decompose"
+"0","beras_ts %>%"
+"0","  stats::decompose() %>%"
+"0","  autoplot()"

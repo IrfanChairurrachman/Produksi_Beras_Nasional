@@ -1,0 +1,3 @@
+"0","model_holtwin2 <- HoltWinters(x = beras_train, beta = 0.3, gamma = 0.2)"
+"0",""
+"0","close_holtwin_f2 <- forecast(model_holtwin2, h = 6)"
