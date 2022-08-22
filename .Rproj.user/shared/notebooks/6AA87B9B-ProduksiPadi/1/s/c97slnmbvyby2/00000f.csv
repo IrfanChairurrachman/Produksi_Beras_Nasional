@@ -1,5 +1,0 @@
-"0","# SARIMA"
-"0","close_arima <- stlm(beras_train, method = ""arima"")"
-"0",""
-"0","# Holt-Winters"
-"0","model_holtwin <- HoltWinters(x = beras_train, seasonal = ""additive"")"

@@ -1,3 +1,0 @@
-"0","beras <- read.csv(""Produksi Gabah Kering Giling.csv"")"
-"0",""
-"0","rmarkdown::paged_table(beras)"

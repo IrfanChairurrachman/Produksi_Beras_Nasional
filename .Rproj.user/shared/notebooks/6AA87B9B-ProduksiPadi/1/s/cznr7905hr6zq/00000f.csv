@@ -1,2 +1,0 @@
-"0","beras_train <- head(beras_ts, n = length(beras_ts) - 6)"
-"0","beras_test <- tail(beras_ts, n = 6)"

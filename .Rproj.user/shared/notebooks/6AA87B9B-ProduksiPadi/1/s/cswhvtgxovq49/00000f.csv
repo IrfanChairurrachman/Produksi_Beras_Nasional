@@ -1,5 +1,0 @@
-"0","model_holtwin_konsumsi <- HoltWinters(x = konsumsi, seasonal = ""additive"")"
-"0",""
-"0","konsumsi_holtwin_f <- forecast(model_holtwin_konsumsi, h = 6)"
-"0",""
-"0","close_holtwin_f3 <- forecast(model_holtwin2, h = 12)"

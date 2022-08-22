@@ -1,5 +1,0 @@
-"0","# forecasting model arima"
-"0","close_arima_f <- forecast(close_arima, h = 6)"
-"0",""
-"0","# forecasting model holtwinters"
-"0","close_holtwin_f <- forecast(model_holtwin, h = 6)"

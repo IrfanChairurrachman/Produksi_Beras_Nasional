@@ -1,5 +1,0 @@
-"0","beras_ts <- ts(data = beras$Produksi_Beras,"
-"0","             start = 1993,"
-"0","             frequency = 3)"
-"0",""
-"0","autoplot(beras_ts)"
